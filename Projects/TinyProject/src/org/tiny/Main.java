@@ -24,6 +24,7 @@ public class Main {
             // Successfully logged in and redirect to user profile page
         } else {
             // Auth failure - Redirect to Login Page
+            //OK
         }
     }
 }
